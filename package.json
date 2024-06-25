@@ -1,0 +1,8 @@
+{
+  "name": "com.josephan.unitystarter",
+  "version": "1.0.0",
+  "displayName": "Unity Starter",
+  "description": "A starter package for Unity projects with useful editor scripts.",
+  "unity": "2022.3",
+  "dependencies": {}
+}
