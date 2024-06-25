@@ -7,6 +7,10 @@ A repo with handy stuff for Unity projects.
 - git stuff
 - C# editor stuff
 
+Copy git and editor configs to project root and prepend ".":
+- editorconfig
+- gitattributes
+- gitignore
 
 # Others
 - https://github.com/adamgryu/InspectorHistory-Unity.git
