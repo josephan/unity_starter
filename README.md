@@ -13,9 +13,10 @@ Copy git and editor configs to project root and prepend ".":
 - gitignore
 
 # Others
-- https://github.com/adamgryu/InspectorHistory-Unity.git
+- Inspector History (https://github.com/adamgryu/InspectorHistory-Unity.git)
 - Easy Collider Editor (https://assetstore.unity.com/packages/tools/level-design/easy-collider-editor-67880)
 - DoTween Pro (https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416)
+- Collider Optimizer (https://github.com/aniketrajnish/Unity-Collider-Optimizer)
 
 # Other Multiplayer
 - https://github.com/VeriorPies/ParrelSync.git?path=/ParrelSync
