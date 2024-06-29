@@ -17,6 +17,7 @@ Copy git and editor configs to project root and prepend ".":
 - Easy Collider Editor (https://assetstore.unity.com/packages/tools/level-design/easy-collider-editor-67880)
 - DoTween Pro (https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416)
 - Collider Optimizer (https://github.com/aniketrajnish/Unity-Collider-Optimizer)
+- Open Recent Scene (https://assetstore.unity.com/packages/tools/utilities/open-recent-scene-17592)
 
 # Other Multiplayer
 - https://github.com/VeriorPies/ParrelSync.git?path=/ParrelSync
